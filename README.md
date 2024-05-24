@@ -71,8 +71,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır - ayrıntılar için [LICENSE]
 
 For any inquiries or collaborations, please contact us at: /
 Herhangi bir soru veya işbirliği için lütfen bize ulaşın: 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1108799838876868738?animated=true)](https://discord.com/users/1108799838876868738)
 <center>
 <a href="https://discord.gg/corleonedev"><img src="assets/logo.png" alt="Discord" width="200"/></a>
-[![Discord Presence](https://lanyard.cnrad.dev/api/1108799838876868738?animated=true)](https://discord.com/users/1108799838876868738)
 </center>
