@@ -35,6 +35,9 @@ cd data-security
 
 --->3.1  Alternatively you can run `pip install rich cryptography` / Alternatif olarak `pip install rich cryptography` çalıştırabilirsiniz.
 
+4. ```bash
+   python cipher.py
+   ```
 ## Dependencies / Bağımlılıklar
 
 - rich
