@@ -74,4 +74,5 @@ Herhangi bir soru veya işbirliği için lütfen bize ulaşın:
 
 <center>
 <a href="https://discord.gg/corleonedev"><img src="assets/logo.png" alt="Discord" width="200"/></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1108799838876868738?animated=true)](https://discord.com/users/1108799838876868738)
 </center>
